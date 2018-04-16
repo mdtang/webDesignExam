@@ -1,4 +1,7 @@
 img {
+  box-sizing: border-box;
   border: 5px blue solid;
   padding: 5%;
+  display: inline;
+  width: 49.5%;
 }
